@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">myapp</string>
+    <string name="app_name" translatable="false">myapp</string>
     <string name="mensaje_bievnida">Bienvenido</string>
     <string name="texto_boton">Entrar</string>
 </resources>
