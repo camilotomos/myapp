@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamañoMensaje">42sp</dimen>
+    <dimen name="tamañoMensajeTablet">72sp</dimen>
+    <dimen name="tamañoMensajeBotonPequeño">24sp</dimen>
+    <dimen name="tamañoMensajeBotonGrande">48sp</dimen>
+</resources>
